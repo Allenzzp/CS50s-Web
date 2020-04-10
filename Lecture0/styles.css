@@ -1,0 +1,38 @@
+h1 {
+    color:antiquewhite;
+    text-align: justify;
+}
+
+table {
+    border: 3px solid blue;
+    border-collapse: collapse;
+    width: 33%;
+}
+th {
+    font-size: medium;
+}
+th,td {
+    border:1px solid black;
+    text-align: center;
+}
+th {
+    background-color: lightgray;
+}
+td {
+    padding: 2.5px;
+}
+#top {
+    font-size: 33px;
+}
+#middle {
+    font-size: 23px;
+}
+#bottom {
+    font-size: 13px;
+}
+.oo {
+    font-size: 3px;
+}
+button:hover {
+    background-color: lightgreen;
+}
